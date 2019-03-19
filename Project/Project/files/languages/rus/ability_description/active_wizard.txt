@@ -1,0 +1,5 @@
+
+Manacost: 10
+Formula of damage:
+damage = INTELLIGENCE*200% + weapon damage
+Type of damage: MAGICAL

@@ -1,0 +1,65 @@
+[
+  {
+    "Class Name": "warrior",
+
+    "Basic health": 20,
+    "Basic mana": 10,
+
+    "Armor type": "medium",
+    "Basic p_armor": 2,
+    "Basic m_armor": 0,
+
+    "Type of equations": "math",
+
+    "easy": 10,
+    "medium": 25,
+    "hard": 50
+  },
+  {
+    "Class Name": "wizard",
+
+    "Basic health": 10,
+    "Basic mana": 30,
+
+    "Armor type": "cloth",
+    "Basic p_armor": 0,
+    "Basic m_armor": 3,
+
+    "Type of equations": "phisics",
+
+    "easy": 10,
+    "medium": 25,
+    "hard": 50
+  },
+  {
+    "Class Name": "archer",
+
+    "Basic health": 15,
+    "Basic mana": 15,
+
+    "Armor type": "light",
+    "Basic p_armor": 1,
+    "Basic m_armor": 1,
+
+    "Type of equations": "soroban",
+
+    "easy": 5,
+    "medium": 15,
+    "hard": 35
+  },
+  {
+    "Class Name": "priest",
+
+    "Basic health": 15,
+    "Basic mana": 20,
+
+    "Armor type": "cloth",
+    "Basic p_armor": 1,
+    "Basic m_armor": 2,
+    "Type of equations": "informatics",
+
+    "easy": 10,
+    "medium": 25,
+    "hard": 50
+  }
+]

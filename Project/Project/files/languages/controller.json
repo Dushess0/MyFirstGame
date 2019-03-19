@@ -1,0 +1,21 @@
+{
+  "initialization": "init",
+  "class_choose": "class_choose",
+  "class": "class",
+  "confirm": "class_confirmation",
+  "wrong": "wrong",
+  "full": "full_inventory",
+  "read more": "read_more",
+  "cur level": "level2",
+  "new level": "level1",
+  "no mana": "nem",
+  "mp": "mp",
+  "hp": "hp",
+  "no staff": "ns",
+  "no bow": "nb",
+  "solve": "need_to_solve",
+  "ultimate reload": "ult_rel",
+  "holy": "holy"
+
+}
+

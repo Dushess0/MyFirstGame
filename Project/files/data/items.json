@@ -1,0 +1,680 @@
+[
+  {
+    "name": "health potion",
+    "level": 1,
+    "rarity": "usual",
+    "type": "potion",
+    "action": "health",
+    "mod": 20
+  },
+  {
+    "name": "mana potion",
+    "level": 1,
+    "rarity": "usual",
+    "type": "potion",
+    "action": "mana",
+    "mod": 30
+  },
+  {
+    "name": "iron sword",
+    "level": 5,
+    "rarity": "usual",
+    "type": "weapon",
+    "mod": 5,
+    "part of body": "right hand"
+  },
+
+  {
+    "name": "wooden staff",
+    "level": 5,
+    "rarity": "usual",
+    "type": "weapon",
+    "mod": 2,
+    "part of body": "right hand"
+  },
+  {
+    "name": "cracked bow",
+    "level": 5,
+    "rarity": "usual",
+    "type": "weapon",
+    "mod": 2,
+    "part of body": "both"
+  },
+  {
+    "name": "Holy Bibr",
+    "level": 5,
+    "rarity": "usual",
+    "type": "weapon",
+    "isHoly": true,
+    "mod": 3,
+    "part of body": "right hand"
+  
+  },
+
+ 
+  {
+    "name": "Dark helmet (cursed)",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 8,
+    "iscursed": true,
+    "part of body": "head"
+  },
+  {
+    "name": "Dark chestplate (cursed)",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 12,
+    "iscursed": true,
+    "part of body": "body"
+  },
+  {
+    "name": "Dark gloves (cursed)",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 3,
+    "iscursed": true,
+    "part of body": "gloves"
+  },
+  {
+    "name": "Dark greaves (cursed)",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 6,
+    "iscursed": true,
+    "part of body": "greaves"
+  },
+  {
+    "name": "Dark sabatons (cursed)",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 4,
+    "iscursed": true,
+    "part of body": "boots"
+  },
+  
+  {
+    "name": "Knitted hat",
+    "level": 8,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "mod": 4,
+    "part of body": "head"
+  },
+  {
+    "name": "Padded jacket",
+    "level": 8,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "mod": 6,
+    "part of body": "body"
+  },
+  {
+    "name": "ski pants",
+    "level": 8,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "mod": 3,
+    "part of body": "greaves"
+  },
+  {
+    "name": "Ski gloves",
+    "level": 8,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 1,
+    "part of body": "gloves"
+  },
+
+  {
+    "name": "Skier's boots",
+    "level": 8,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "mod": 2,
+    "part of body": "boots"
+  },
+  {
+    "name": "Cowboy hat",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 4,
+    "part of body": "head"
+  },
+
+ 
+  {
+    "name": "Trenchcoat",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 6,
+    "Protection from magic": true,
+    "usable_as_under": true,
+    "part of body": "body"
+  },
+  {
+    "name": "Leather pants",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 3,
+    "Protection from magic": true,
+
+    "part of body": "body"
+  },
+  {
+    "name": "Leather boots",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 1,
+    "Protection from magic": true,
+    "part of body": "boots"
+  },
+  {
+    "name": "Gloves from viverna's skin",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "Protection from magic": true,
+    "mod": 2,
+    "part of body": "gloves"
+  },
+
+  
+
+
+  {
+    "name": "Mage's hat",
+    "level": 4,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "Protection from magic": true,
+    "mod": 1,
+    "part of body": "head"
+  },
+  {
+    "name": "Beatiful gloves",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "Protection from magic": true,
+    "mod": 1,
+    "part of body": "gloves"
+  },
+
+  {
+    "name": "Mage's boots",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "mod": 6,
+    "usable_as_under": true,
+    "Protection from magic": true,
+    "part of body": "boots"
+  },
+
+
+
+
+
+  {
+    "name": "Helmet of Adeptus Astartes",
+    "level": 25,
+    "rarity": "legendary",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 4,
+    "part of body": "head"
+  },
+  {
+    "name": "Plastron of Adeptus Astartes",
+    "level": 25,
+    "rarity": "legendary",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 6,
+    "Protection from magic": true,
+
+    "part of body": "body"
+  },
+  {
+    "name": "Gauntlet of Adeptus Astartes",
+    "level": 25,
+    "rarity": "legendary",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 1,
+    "part of body": "gloves"
+  },
+  {
+    "name": "Greaves of Adeptus Astartes",
+    "level": 25,
+    "rarity": "legendary",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 3,
+    "part of body": "greaves"
+  },
+  {
+    "name": "Boots of Adeptus Astartes",
+    "level": 25,
+    "rarity": "legendary",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 2,
+    "part of body": "boots"
+  },
+
+
+  
+  {
+    "name": "Black cassock",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "mod": 6,
+    "Protection from magic": true,
+    "usable_as_under": true,
+    "part of body": "body"
+  },
+  {
+    "name": "miter",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "mod": 4,
+    "Protection from magic": true,
+    "part of body": "head"
+  },
+  {
+    "name": "sandals",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "mod": 2,
+
+    "part of body": "body"
+  },
+
+  
+
+  {
+    "name": "Leather jacket",
+    "level": 1,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 2,
+    "usable_as_under": true,
+    "part of body": "body"
+  },
+  {
+    "name": "Sturded leather jacket",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 2,
+    "usable_as_under": true,
+    "part of body": "body"
+  },
+  {
+    "name": "Leather armor with stripes of steel",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 2,
+    "part of body": "body"
+  },
+  {
+    "name": "Gambeson",
+    "level": 15,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 1,
+    "usable_as_under": true,
+    "part of body": "body"
+  },
+  {
+    "name": "Bronze chestplate",
+    "level": 1,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 5,
+    "part of body": "body"
+  },
+  {
+    "name": "Hat",
+    "level": 1,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "mod": 1,
+    "part of body": "head"
+  },
+
+  {
+    "name": "Sturdy hood",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "mod": 1,
+    "part of body": "head"
+  },
+
+
+  {
+    "name": "Leather helmet",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 3,
+    "part of body": "head"
+  },
+  {
+    "name": "Upgraded leather helmet",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 2,
+    "part of body": "head"
+  },
+  {
+    "name": "Unusual leather helmet",
+    "level": 15,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 1,
+    "part of body": "head"
+  },
+  {
+    "name": "Bronze helmet",
+    "level": 1,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 3,
+    "part of body": "head"
+  },
+  {
+    "name": "Iron helmet",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 3,
+    "part of body": "head"
+  },
+  {
+    "name": "Steel helmet",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 2.5,
+    "part of body": "head"
+  },
+  {
+    "name": "Improved steel helmet",
+    "level": 15,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 2,
+    "part of body": "head"
+  },
+  {
+    "name": "Nasal helmet",
+    "level": 1,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "heavy",
+    "mod": 3,
+    "part of body": "head"
+  },
+  {
+    "name": "Spangenhelm",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "heavy",
+    "mod": 4,
+    "part of body": "head"
+  },
+  {
+    "name": "Great helm",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "heavy",
+    "mod": 5,
+    "part of body": "head"
+  },
+  {
+    "name": "Bascinet",
+    "level": 15,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "heavy",
+    "mod": 5,
+    "part of body": "head"
+  },
+  {
+    "name": "Improved great helm",
+    "level": 1,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "superheavy",
+    "mod": 6,
+    "part of body": "head"
+  },
+
+  {
+    "name": "Sturded iron helmet",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "superheavy",
+    "mod": 5,
+    "part of body": "head"
+  },
+  {
+    "name": "Advanced steel helmet",
+    "level": 15,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "superheavy",
+    "mod": 5,
+    "part of body": "head"
+  },
+
+
+
+  {
+    "name": "Iron chestplate",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 15,
+    "part of body": "body"
+  },
+  {
+    "name": "Steel chestplate",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 15,
+    "part of body": "body"
+  },
+  {
+    "name": "Chestplate from forged cursed metal",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 15,
+    "part of body": "body"
+  },
+  {
+    "name": "Chestplate from cursed metal",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "medium",
+    "mod": 15,
+    "iscursed": true,
+    "part of body": "body"
+  },
+  {
+    "name": "Weighted iron chestplate",
+    "level": 1,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "heavy",
+    "mod": 12,
+    "part of body": "body"
+  },
+  {
+    "name": "Weighted steel chestplate",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "heavy",
+    "mod": 12,
+    "part of body": "body"
+  },
+  {
+    "name": "Great iron chestplate",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "heavy",
+    "mod": 12,
+    "part of body": "body"
+  },
+  {
+    "name": "Great steel chestplate",
+    "level": 15,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "heavy",
+    "mod": 12,
+    "part of body": "body"
+  },
+  {
+    "name": "Superheavy iron chestplate",
+    "level": 1,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "superheavy",
+    "mod": 12,
+    "part of body": "body"
+  },
+  {
+    "name": "Superheavy steel chestplate",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "superheavy",
+    "mod": 12,
+    "part of body": "body"
+  },
+  {
+    "name": "Giant steel chestplate",
+    "level": 10,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "superheavy",
+    "mod": 12,
+    "part of body": "body"
+  },
+  {
+    "name": "Upgraded steel chestplate",
+    "level": 15,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "superheavy",
+    "mod": 12,
+    "part of body": "body"
+  },
+  {
+    "name": "Fingerless gloves",
+    "level": 1,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "Protection from magic": true,
+    "mod": 1,
+    "part of body": "gloves"
+  },
+  {
+    "name": "Leather gloves",
+    "level": 5,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "cloth",
+    "mod": 1,
+    "part of body": "gloves"
+  },
+
+
+  {
+    "name": "Sturded leather gloves",
+    "level": 1,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 2,
+    "part of body": "gloves"
+  },
+
+
+  {
+    "name": "Gloves with iron stripes",
+    "level": 15,
+    "rarity": "usual",
+    "type": "armor",
+    "weight": "light",
+    "mod": 3,
+    "part of body": "gloves"
+  }
+
+]

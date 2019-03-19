@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-up" width="150" height="70" tilewidth="32" tileheight="32" nextobjectid="243">
+ <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32" tilecount="768" columns="32">
+  <image source="../img/tiles.png" trans="ffffff" width="1024" height="768"/>
+ </tileset>
+ <objectgroup name="Obstacles">
+  <object id="3" name="ENEMY_passive" x="905" y="1766" width="24" height="24"/>
+  <object id="5" name="wall" x="357" y="1768" width="30" height="32"/>
+  <object id="11" name="usual_trap" x="1240" y="1766" width="168" height="8"/>
+  <object id="12" name="ENEMY_primitive" x="1144" y="1757" width="32" height="32"/>
+  <object id="21" name="chest_usual" x="573" y="1752" width="48" height="32"/>
+  <object id="94" name="ENEMY_ninja" x="688" y="1752" width="40" height="40"/>
+  <object id="98" name="hint_02" x="85" y="1708" width="112" height="64"/>
+  <object id="105" name="ladder" x="612" y="1864" width="32" height="147"/>
+  <object id="160" name="rand_rare" x="1450" y="1754" width="56" height="32"/>
+  <object id="170" name="Player" x="1028" y="1766"/>
+  <object id="222" name="rand_usual" x="427" y="1744" width="40" height="40"/>
+  <object id="223" name="rand_usual" x="802" y="1734" width="40" height="40"/>
+  <object id="231" name="apple" x="288" y="1853" width="24" height="16"/>
+  <object id="232" name="apple" x="283" y="1730" width="32" height="37"/>
+ </objectgroup>
+</map>

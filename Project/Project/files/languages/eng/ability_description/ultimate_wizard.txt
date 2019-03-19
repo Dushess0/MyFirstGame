@@ -1,0 +1,5 @@
+8 meteorites coming from sky!
+Manacost: 20 (-1 charge)
+Formula of damage:
+damage = INTELLIGENCE*1.5 + weapon damage
+Type of damage: CLEAR

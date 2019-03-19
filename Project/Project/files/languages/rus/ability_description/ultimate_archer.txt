@@ -1,0 +1,6 @@
+You launching arrow with great clear damage!
+Manacost: 15 (-1 charge)
+Formula of damage:
+damage = AGILITY*200% + weapon damage
+Type of damage: CLEAR
+To use this ability you need bow!

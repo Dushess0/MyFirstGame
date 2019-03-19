@@ -1,0 +1,40 @@
+{
+"x": 885,
+"y": 2080,
+"current hp": 22,
+"current mp": 12,
+"current exp": 0,
+"current level": 1,
+"inventory": [
+0,
+0,
+31,
+33,
+46,
+24,
+0,
+42,
+37,
+41,
+8,
+44
+],
+"equiped": {
+"head": null,
+"body": null,
+"under armor": null,
+"gloves": null,
+"boots": null,
+"greave": null,
+"right hand": null,
+"left hand": null
+},
+"strenght": 1,
+"intelligence": 1,
+"agility": 1,
+"spirit": 1,
+"last class": "warrior",
+"free points": 0,
+"armor_type,": "medium",
+"rank_of_armor": 2
+}

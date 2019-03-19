@@ -1,0 +1,1 @@
+In this game exist 4 classes : 1)warrior 2)wizard 3)archer 4)priest

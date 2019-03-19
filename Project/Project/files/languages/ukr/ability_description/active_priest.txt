@@ -1,0 +1,5 @@
+Punch them with force of your spirit!
+Manacost: 6
+Formula of damage:
+damage = SPIRIT*150% + weapon damage + STRENGHT
+Type of damage: CLEAR

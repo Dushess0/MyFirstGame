@@ -1,0 +1,5 @@
+Use all of your power to smash them!
+Manacost: 10 (-1 charge)
+Formula of damage:
+damage = STRENGHT*AGLITY/2 + weapon damage
+Type of damage: CLEAR

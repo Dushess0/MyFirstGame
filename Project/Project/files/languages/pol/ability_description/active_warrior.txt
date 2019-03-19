@@ -1,0 +1,5 @@
+You punching your enemy with your brute force!]
+Manacost: 5 
+Formula of damage:
+damage = STRENGHT*150% + weapon damage + AGILITY
+Type of damage: PHYSICAL

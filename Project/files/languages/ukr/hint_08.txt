@@ -1,0 +1,3 @@
+In this game exist 4 types of items: usual,rare,unique,legendary,epic.
+This is your first rare item. 
+You will often find items that do not suit you but this is 

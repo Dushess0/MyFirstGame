@@ -1,0 +1,18 @@
+[
+  {
+    "equation": "Stewart's theorem!!!!",
+    "a ": "ratios of various line segments that are created if two intersecting lines are intercepted by a pair of parallels",
+    "b ": "relates the lengths of the sides of a triangle to the cosine of one of its angles",
+    "c ": "a relation between the lengths of the sides of the triangle and the length of a cevian of the triangle",
+    "correct": "c"
+
+  },
+  {
+    "equation": " Pythagoras's theorem",
+    "a ": "I did not teach this!",
+    "b ": "too hard!",
+    "c ": "a^2+b^2=c^2",
+    "correct": "c"
+  }
+
+]

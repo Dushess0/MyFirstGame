@@ -1,0 +1,117 @@
+[
+  {
+    "type": "primitive",
+    "range": "melee",
+    "damage": 2,
+    "type_of_damage": "physical",
+    "agro_radius": 200,
+    "Basic health": 10,
+    "Basic p_armor": 0,
+    "Basic m_armor": 0,
+    "inc_health": 10,
+    "inc_p_armor": 6,
+    "inc_m_armor": 0,
+    "sociality": "None",
+    "attack speed": 1.5,
+    "speed": 1,
+    "exp": 5,
+    "mod": 0.75
+
+  },
+  {
+    "type": "passive",
+    "range": "melee",
+    "damage": 2,
+    "type_of_damage": "physical",
+    "agro_radius": 100,
+    "Basic health": 20,
+    "Basic p_armor": 2,
+    "Basic m_armor": 0,
+    "inc_health": 8,
+    "inc_p_armor": 5,
+    "inc_m_armor": 2,
+    "sociality": "None",
+    "attack speed": 1.5,
+    "speed": 1,
+    "exp": 6,
+    "mod": 0.5
+
+  },
+  {
+    "type": "ninja",
+    "range": "melee",
+    "damage": 6,
+    "type_of_damage": "physical",
+    "agro_radius": 300,
+    "Basic health": 15,
+    "Basic p_armor": 0,
+    "Basic m_armor": 0,
+    "inc_health": 8,
+    "inc_p_armor": 2,
+    "inc_m_armor": 1,
+    "sociality": "None",
+    "attack speed": 1.5,
+    "speed": 1.7,
+    "exp": 10,
+    "mod": 1.5
+
+  },
+  {
+    "type": "jumper",
+    "range": "melee",
+    "damage": 4,
+    "type_of_damage": "physical",
+    "agro_radius": 200,
+    "Basic health": 15,
+    "Basic p_armor": 2,
+    "Basic m_armor": 0,
+    "inc_health": 7,
+    "inc_p_armor": 0,
+    "inc_m_armor": 0,
+    "sociality": "None",
+    "attack speed": 1.5,
+    "speed": 1,
+    "exp": 6,
+    "mod": 1.2
+
+  },
+  {
+    "type": "canon",
+    "range": "distance",
+    "type_of_damage": "magical",
+    "damage": 5,
+    "agro_radius": 400,
+    "Basic health": 20,
+    "Basic p_armor": 2,
+    "Basic m_armor": 0,
+    "inc_health": 5,
+    "inc_p_armor": 5,
+    "inc_m_armor": 1,
+    "sociality": "None",
+    "attack speed": 1.5,
+    "speed": 1,
+    "exp": 4,
+    "mod": 1
+
+  },
+  {
+    "type": "star",
+    "range": "distance",
+    "damage": 4,
+    "type_of_damage": "clear",
+    "agro_radius": 300,
+    "Basic health": 15,
+    "Basic p_armor": 1,
+    "Basic m_armor": 1,
+    "inc_health": 5,
+    "inc_p_armor": 0,
+    "inc_m_armor": 0,
+    "sociality": "None",
+    "attack speed": 3,
+    "speed": 0,
+    "exp": 6,
+    "mod": 0.5
+
+  }
+
+]

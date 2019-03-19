@@ -1,0 +1,6 @@
+one shot, one kill, no luck, just skill
+Manacost: 6
+Formula of damage:
+damage=AGILITY*200% + weapon damage
+Type of damage: PHYSICAL
+To use this ability you need bow!

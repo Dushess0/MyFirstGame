@@ -1,0 +1,4 @@
+You restoring you health
+Manacost: 8 (-1 charge)
+Formula of restoring:
+restoring=INTELLIGENCE*SPIRIT+5

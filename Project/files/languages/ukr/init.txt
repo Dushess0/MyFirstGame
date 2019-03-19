@@ -1,0 +1,26 @@
+                      WARRIOR            
+
+           Man that used to solve problems by force of weapon and strength of armor.
+           It follows the path of STRENGHT.
+           You can choose the subclasses: SOLDIER, BARBARIAN, KNIGHT.
+           Can wear MEDIUM armor.
+           Type of equations : ARITHMETIC
+                         WIZARD           
+           Knowledge rules the world!.
+           It follows the path of INTELLIGENCE.
+           You can choose the subclasses: PYROMANCER, ELECTRO WIZARD, LICH.
+           Can wear CLOTH armor.
+           Type of equations : ALGEBRA
+                             ARCHER            
+           Sharp eye and a strong hand are all that is needed for killing.
+           It follows the path of INTELLIGENCE.
+           You can choose the subclasses: ASSASIN, GUNSLINGER, RANGER.
+           Can wear LIGHT armor.
+           Type of equations : SOROBAN
+                             PRIEST            
+           In the name of God!
+           It follows the path of SPIRIT.
+           You can choose the subclasses: MONK, PALADIN, HERETIC .
+           Can wear CLOTH armor.
+           Type of equations : THEOREMS
+        
