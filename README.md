@@ -7,4 +7,5 @@ I am not finished this game because of my school. It has endless mode and story 
 
 You can use my spritesheets for free, however i would like to receive some info about way you are using it.
 
-
+If you have any questions or propositions please write me via Telegram @Dushess0 .
+Thanks You!
